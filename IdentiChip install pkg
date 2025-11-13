@@ -1,0 +1,5 @@
+# Make executable
+chmod +x install_packages.sh
+
+# Run it
+./install_packages.sh
