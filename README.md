@@ -1,7 +1,7 @@
                          
 #            |Ez Projects and MAintenance|            
 
-#|==================|**IdentiChip**|================|
+|==================|**IdentiChip**|================|
 
 Chipset and Device information Gathering for USB Wireless and Bluetooth Adapters.
 These tools and commands allow a user to find hardware specific information on chipset and device
